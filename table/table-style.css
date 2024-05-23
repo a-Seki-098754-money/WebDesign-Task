@@ -1,0 +1,26 @@
+body{
+    background-color: #FFFACD;
+    font-family: "游ゴシック","HGP行書体", serif;
+}
+table{
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+    margin: auto;
+    font-size: 20px;
+}
+table, th, td{
+    border: solid 1px black;
+    border-collapse: collapse;
+    text-align: center;
+}
+thead{
+    background-color: #2E8B57;
+    color: white;
+}
+img{
+    width: 90%;
+    margin: auto;
+}
+caption{
+    font-size: 30px;
+}
