@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body {
+    background-color: #ffffad;
+    background-size: cover;
+}
+
+.summary {
+    color: green;
+    font-family: "昭和モダン体", "游ゴシック", serif;
+}
+
+.hobby {
+    color: peru;
+}
+
+ul li {
+    list-style-image: url(img/icon_112381_64.png);
+    margin-left: 20px;
+}
+
+span {
+    border: 3px double red;
+    color: blue;
+}
+
+.summary p {
+    margin-left: 20px;
+}
