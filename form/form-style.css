@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+body {
+    font-size: 0.7rem;
+}
+
+input[type] {
+    margin-bottom: 0.5rem;
+}
+
+input[type='number'] {
+    margin-right: 0.5rem;
+}
+
+input[type='radio'] {
+    margin-right: 0.5rem;
+}
+
+fieldset {
+    margin-bottom: 0.7rem;
+    background-color: antiquewhite;
+}
+
+input[type='checkbox'] {
+    margin-right: 0.5rem;
+}
