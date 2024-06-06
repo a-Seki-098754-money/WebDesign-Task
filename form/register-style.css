@@ -1,0 +1,39 @@
+body {
+    background-image: url(img/colorful-abstract-art-background_53876-88841.avif);
+    background-size: cover;
+}
+
+span {
+    background-color: red;
+    color: white;
+    border-radius: 20%;
+    font-size: 0.8rem;
+}
+
+th {
+    text-align: left;
+    background-color: wheat;
+}
+
+td {
+    background-color: white;
+}
+
+table,
+th,
+td {
+    border: solid 1px black;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+.basic_button {
+    margin: 10px;
+}
+
+.supplement {
+    font-size: 0.7rem;
+}
