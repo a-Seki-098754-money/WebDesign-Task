@@ -1,6 +1,12 @@
+@charset "utf-8";
 body {
     background-image: url(img/colorful-abstract-art-background_53876-88841.avif);
     background-size: cover;
+}
+
+p{
+    color: darkslategrey;
+    font-weight: bold;
 }
 
 span {
@@ -13,10 +19,12 @@ span {
 th {
     text-align: left;
     background-color: wheat;
+    font-family: "昭和モダン体","游明朝", serif;
 }
 
 td {
     background-color: white;
+    font-family: "昭和モダン体","游明朝", serif;
 }
 
 table,
